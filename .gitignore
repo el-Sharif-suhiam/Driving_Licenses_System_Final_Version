@@ -19,8 +19,6 @@ Release/
 *.idb
 
 .vscode/
-*.sln
-*.vcxproj*
 *.user
 *.aps
 *.ncb
