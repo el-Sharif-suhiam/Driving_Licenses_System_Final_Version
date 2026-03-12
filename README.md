@@ -33,14 +33,7 @@ DVLD/ # Root folder
 ├── DVLD.sln
 └── README.md
 
-
-
-## 🔧 Setup
-1. Clone: `git clone https://github.com/Msaqer77/DVLD.git`
-2. Open `DVLD.sln` in Visual Studio.
-3. Update connection string in `DVLD.DataAccess/clsDataAccessSettings.cs` with your SQL Server details.
-4. Run the SQL script (if provided) to create the database.
-5. Build and run (F5). Default login: `Msaqer77` / `1234`.
+ Default login: `Msaqer77` / `1234`.
 
 ## 🚀 Usage
 After login, navigate through modules: People, Users, Licenses, Applications, Tests, Violations, Vehicles, Reports.
